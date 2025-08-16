@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a B.Sc. in Computer Science & Engineering (CSE) at Brac University, with a strong passion for web technologies and full-stack development. I am actively learning and working with various programming languages and frameworks to build robust and scalable applications.<br><br>Languages<br><br><b>Bengali:</b> Native<br><br><b>English:</b> Business Proficiency<br><br><b>Hindi:</b>  Business Proficiency
+I am currently pursuing a B.Sc. in Computer Science & Engineering (CSE) at Brac University, with a strong passion for web technologies and full-stack development. I am actively learning and working with various programming languages and frameworks to build robust and scalable applications.<br><br><b>Languages</b> <br><br><b>Bengali:</b> Native<br><br><b>English:</b> Business Proficiency<br><br><b>Hindi:</b> Business Proficiency
 
 
 ## 🌐 Socials:
